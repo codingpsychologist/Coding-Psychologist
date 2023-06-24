@@ -7,6 +7,8 @@ try out this feature in the data analytics field, and in my amazement, it worked
 journey and hope to share it with the world. To use, simply open the application, upload a datafile (csv) and click
 clean data. The tool will generate a report, with the number of duplicate rows found, and populate a clean csv dataset.
 
+Watch full demo here: https://youtu.be/3uTDTmzIH1s
+
 Prerequisites
 Python 3.x
 PySimpleGUI library
